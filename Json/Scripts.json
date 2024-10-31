@@ -2,9 +2,9 @@
   "scripts": [
     {
       "name": "Zombie Attack",
-      "image_url": "https://www.mediafire.com/file/4tz7l3f69sym2ym/ArceusX145.apk/file",
+      "image_url": "https://raw.githubusercontent.com/MSTTOPPER/SiteContent/refs/heads/main/Images/ZombieAttack.jpg",
       "key": 0,
-      "script": loadstring(game:HttpGet("https://raw.githubusercontent.com/dqtixz/ZXwtccwtwct4/refs/heads/main/hdfdf"))(),
+      "script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/dqtixz/ZXwtccwtwct4/refs/heads/main/hdfdf"))()",
       "funcions": "Auto-Farm, Get-All-Gun, Anti-Afk, More",
       "date": "21/10/2024",
       "description": "Большой скрипт с крутым функуионалом может запускатся 10 сек"
